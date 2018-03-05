@@ -1,0 +1,10 @@
+bcrypt==3.1.4
+cffi==1.11.4
+Django==1.11
+django-appconf==1.0.2
+django-imagekit==4.0.2
+pilkit==2.0
+Pillow==5.0.0
+pycparser==2.18
+pytz==2018.3
+six==1.11.0
